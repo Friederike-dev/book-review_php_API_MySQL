@@ -1,0 +1,36 @@
+# Umgebungsdateien
+.env
+
+# Abhängigkeiten
+/vendor/
+
+# Logs und Debugging-Dateien
+logs/
+*.log
+*.cache
+*.tmp
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db
+
+# IDE-spezifische Dateien
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Backup-Dateien
+*.bak
+*.swp
+*.tmp
+
+# PHPStorm spezifisch
+/.phpstorm.meta.php/
+
+# Composer spezifisch
+composer.phar
+
+# Andere unnötige Dateien
+*.sql
+*.sqlite
